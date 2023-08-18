@@ -1,0 +1,31 @@
+th, td{
+    border: 2px solid blueviolet;
+    font-size: large;
+
+}
+table{
+    border-collapse: collapse ;
+    /* padding: 100px 100px; */
+    color: blueviolet;
+    /* position: absolute; */
+    /* background-color:darkgoldenrod;
+     */
+     
+}
+td{
+    padding: 5px 10px;
+}
+h1{
+    color: lightcoral;
+    font-weight: 700;
+    background-color: black;
+    border-radius: 50%;
+    height: 100px;
+}
+*{
+    text-align: center;
+    background-color:black ;
+    /* position: fixed; */
+}
+
+
